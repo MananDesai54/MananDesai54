@@ -73,4 +73,3 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MananDesai54)
 
-[Developed By Devanshu ♥️](http://gitread.me/#/)
