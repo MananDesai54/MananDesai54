@@ -23,10 +23,10 @@
 
 #### Position: Full Stack Developer
 
-#### Email: manan5401desai@gmail.com
 
-#### <h4>About Myself: I'm passionate about making real world projects and learning new technologies.</h4>
+# Skills
 
+<h4>JavaScript , Node.js , React.js , React Native , TypeScript , GraphQL , Python , Django</h4>
 
 # Work Experience
 
@@ -39,9 +39,6 @@
 </li></ul>
 
 
-# Skills
-
-<h4>JavaScript , Node.js , React.js , React Native , TypeScript , GraphQL , Python , Django</h4>
 
 # Achievements
 
