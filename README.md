@@ -1,4 +1,4 @@
-
+<br />
 
 <a href=https://www.facebook.com/manan.desai.1811/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 
@@ -14,7 +14,7 @@
 
 <a href=https://medium.com/@MananDe67590352 > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
-
+<br />
 
 
 #### <br>Name: Manan Desai
