@@ -38,4 +38,4 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MananDesai54)
 
 
-# Develope , Develope and Develope
+# Develop , Develop and Develop
