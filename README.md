@@ -19,15 +19,15 @@
 
 # Skills
 
-<h4>JavaScript , Node.js , React.js , React Native , TypeScript , GraphQL , Python , Django</h4>
+<h4>JavaScript , Node.js , React.js , React Native , Angular , TypeScript , GraphQL , Python , Django</h4>
 
 # Work Experience
 
 <ul>
 <li><h4> Company Name : 22bate7 </h4> 
-  <h4> Work Role : Full Stack Web & Mobile App Developer</h4> 
+  <h4> Work Role : Full Stack Developer(Intern)</h4> 
   <h4> From : 2020-06 </h4> 
-  <h4> to :Present </h4> 
+  <h4> to :2020-08 </h4> 
   <h4> Details :At 22bate7 , My main role is to create one module for their existing project . For dashboard i have to crate web application and for Normal user's use i have to create mobile application. It was open source project </h4> 
 </li></ul>
 
