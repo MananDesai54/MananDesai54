@@ -1,4 +1,4 @@
-# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" />
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" style="height:20px;" />
 ### I am Manan Desai. I am pursuing Bechlors degree. I am development and open-source enthusiastic.
 
 
@@ -19,18 +19,20 @@
 <a href=https://twitter.com/developtheweb_ > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 <a href=https://www.instagram.com/_manandesai_ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 <a href=https://medium.com/@MananDe67590352 > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+<br/>
 
 # Language and tools
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" /> </a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" /> </a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" /></a>
+<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
 
-<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-6-569582.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" />
+
 
 
 <hr />
