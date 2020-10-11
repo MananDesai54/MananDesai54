@@ -1,4 +1,4 @@
-# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" style="height:20px;" />
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="20" />
 ### I am Manan Desai. I am pursuing Bechlors degree. I am development and open-source enthusiastic.
 
 
@@ -8,10 +8,13 @@
 # Skills
 
 <h4>JavaScript , Node.js , React.js , React Native , Angular , TypeScript , GraphQL , Python , Django</h4>
+<br/>
 
 # Achievements
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MananDesai54)
+<br/>
+<br/>
 
 # Reach | Contact me
 <a href=https://www.facebook.com/manan.desai.1811/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
@@ -19,6 +22,8 @@
 <a href=https://twitter.com/developtheweb_ > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 <a href=https://www.instagram.com/_manandesai_ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 <a href=https://medium.com/@MananDe67590352 > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+<br/>
+<br/>
 <br/>
 
 # Language and tools
