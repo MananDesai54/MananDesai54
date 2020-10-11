@@ -1,4 +1,4 @@
-# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="20" />
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
 ### I am Manan Desai. I am pursuing Bechlors degree. I am development and open-source enthusiastic.
 
 
