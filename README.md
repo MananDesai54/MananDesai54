@@ -7,7 +7,15 @@
 
 # Skills
 
-<h4>JavaScript , Node.js , React.js , React Native , Angular , TypeScript , GraphQL , Python , Django</h4>
+  - JavaScript 
+  - Node.js 
+  - React.js 
+  - React Native 
+  - Angular 
+  - TypeScript 
+  - GraphQL 
+  - Python 
+  - Django
 <br/>
 
 # Achievements
