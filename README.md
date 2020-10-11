@@ -1,18 +1,6 @@
-# Manan Desai
-### Full Stack Developer
-<a href=https://www.facebook.com/manan.desai.1811/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" />
+### I am Manan Desai. I am pursuing Bechlors degree. I am development and open-source enthusiastic.
 
-
-<a href=https://www.linkedin.com/feed/update/urn:li:activity:6690222609323323392/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
-
-
-<a href=https://twitter.com/developtheweb_ > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
-
-
-<a href=https://www.instagram.com/_manandesai_ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
-
-
-<a href=https://medium.com/@MananDe67590352 > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
 <br />
 <br />
@@ -21,21 +9,28 @@
 
 <h4>JavaScript , Node.js , React.js , React Native , Angular , TypeScript , GraphQL , Python , Django</h4>
 
-# Work Experience
-
-<ul>
-<li><h4> Company Name : 22bate7 </h4> 
-  <h4> Work Role : Full Stack Developer(Intern)</h4> 
-  <h4> From : 2020-06 </h4> 
-  <h4> to :2020-08 </h4> 
-  <h4> Details :At 22bate7 , My main role is to create one module for their existing project . For dashboard i have to crate web application and for Normal user's use i have to create mobile application. It was open source project </h4> 
-</li></ul>
-
-
-
 # Achievements
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MananDesai54)
 
+# Reach | Contact me
+<a href=https://www.facebook.com/manan.desai.1811/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+<a href=https://www.linkedin.com/feed/update/urn:li:activity:6690222609323323392/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href=https://twitter.com/developtheweb_ > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+<a href=https://www.instagram.com/_manandesai_ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<a href=https://medium.com/@MananDe67590352 > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
-# Develop , Develop and Develop
+# Language and tools
+
+<img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-6-569582.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" />
+
+
+<hr />
