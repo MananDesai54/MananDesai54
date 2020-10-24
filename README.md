@@ -47,6 +47,7 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
 
 # Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MananDesai54&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MananDesai54&layout=compact)]
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MananDesai54)]
 <hr />
