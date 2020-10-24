@@ -13,6 +13,8 @@
   - React Native 
   - Angular 
   - TypeScript 
+  - HTML
+  - CSS
   - GraphQL 
   - Python 
   - Django
