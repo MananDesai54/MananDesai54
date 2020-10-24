@@ -19,7 +19,7 @@
 <br/>
 
 # Achievements
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MananDesai54&show_icons=true&theme=radical4&count_private=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&count_private=true)
 <br/>
 <br/>
 
