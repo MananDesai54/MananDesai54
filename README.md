@@ -51,4 +51,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
 <hr />
 
-<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="display:block; margin: 0 auto;" />
