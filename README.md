@@ -50,3 +50,5 @@
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
 <hr />
+
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
