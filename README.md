@@ -47,6 +47,6 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
 
 # Top Language
-![Top Langs]()https://github-readme-stats.vercel.app/api/top-langs/?username=MananDesai54&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MananDesai54&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="display:block; margin-left: 200px;" />
