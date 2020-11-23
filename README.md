@@ -1,14 +1,9 @@
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
 ### I am Manan Desai. Currently pursuing Bechlors degree in Compueter science. Development and  open-source Enthusiastic.
-
-
 <br />
-<br />
-
 # Achievements
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&count_private=true)
 <br/>
-
 # Skills
 
   - JavaScript 
