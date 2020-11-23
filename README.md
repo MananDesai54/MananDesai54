@@ -23,6 +23,7 @@
   - Python 
   - Django
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MananDesai54" alt="harshcsper" /> </p>
 
 
 <br/>
