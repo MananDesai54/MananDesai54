@@ -23,6 +23,7 @@
   - Python 
   - Django
 <br/>
+
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
 <hr />
