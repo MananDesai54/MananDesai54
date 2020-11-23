@@ -23,8 +23,6 @@
   - Python 
   - Django
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MananDesai54" alt="harshcsper" /> </p>
-
 
 <br/>
 
@@ -54,4 +52,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
 <hr />
 
-<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="display:block; margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="display:block; margin-left: 200px;" />
