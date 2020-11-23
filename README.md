@@ -23,8 +23,9 @@
   - Python 
   - Django
 <br/>
-
-<br/>
+# Visitors
+![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
+<hr />
 
 # Reach | Contact me
 <a href=https://www.facebook.com/manan.desai.1811/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
@@ -46,10 +47,5 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
-
-
-# Visitors
-![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
-<hr />
 
 <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="display:block; margin-left: 200px;" />
