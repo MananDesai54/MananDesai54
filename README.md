@@ -1,5 +1,5 @@
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
-### I am Manan Desai. Currently pursuing Bechlors degree in Compueter science. Development and  open-source Enthusiastic.
+### Hello, Manan Desai here. 
 <br />
 
 # Achievements
