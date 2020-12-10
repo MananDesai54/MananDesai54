@@ -43,4 +43,5 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
 
-<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="display:block; margin-left: 200px;" />
+<br />
+<p style="text-align: center;">Show me 💖 by giving ⭐ to repo you liked.</p>
