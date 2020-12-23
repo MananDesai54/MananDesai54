@@ -23,7 +23,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
 <hr />
 
-# Reach || Contact me
+# Reach | Contact me
 <a href=https://www.facebook.com/manan.desai.1811/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 <a href=https://www.linkedin.com/in/manan-desai-9ab441186 > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 <a href=https://twitter.com/developtheweb_ > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-# Language and tools
+# Language and Tools
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" /> </a>
