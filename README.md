@@ -1,5 +1,5 @@
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
-<p>Manan Desai here. Full Stack JavaScript Developer and OpenSource Enthusiatic. </p>
+<p>Manan Desai here, Full Stack JavaScript Developer and OpenSource Enthusiatic. </p>
 
 # Achievements
 <img src="https://github-readme-stats-abserari.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="MananDesai54" /> </p><br/>
