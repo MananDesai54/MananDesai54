@@ -7,11 +7,14 @@
 # Skills
 
   - JavaScript 
+  - TypeScript
   - Node.js 
   - React.js 
   - React Native 
-  - Angular 
-  - TypeScript 
+  - Angular
+  - MongoDB
+  - PostgreSQL
+  - AWS S3 
   - HTML
   - CSS
   - GraphQL 
