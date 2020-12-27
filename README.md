@@ -42,7 +42,6 @@
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" /> </a>
 <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" /></a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/graphql-2892022-2399460.png" /> </a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" /></a>
