@@ -1,25 +1,28 @@
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
-<p>Manan Desai here, Full Stack JavaScript Developer and OpenSource Enthusiatic. </p>
+```Manan Desai here, Full Stack JavaScript Developer and OpenSource Enthusiatic.```
 
 # Achievements
 <img src="https://github-readme-stats-abserari.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="MananDesai54" /> </p><br/>
 
 # Skills
-
+```
   - JavaScript 
   - TypeScript
+  - HTML
+  - CSS
+  - Python 
+
   - Node.js 
   - React.js 
   - React Native 
   - Angular
+  - GraphQL 
+  - Django
+  
   - MongoDB
   - PostgreSQL
-  - AWS S3 
-  - HTML
-  - CSS
-  - GraphQL 
-  - Python 
-  - Django
+  - AWS S3
+```
 <br/>
 
 # Profile Visits
@@ -50,4 +53,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MananDesai54&layout=compact&theme=dark&count_private=true)](https://github.com/MananDesai54)
 
 <br />
-<p style="text-align: center;">Show me 💖 by giving ⭐ to repo you liked.</p>
+```Show me 💖 by giving ⭐ to repo you liked.```
