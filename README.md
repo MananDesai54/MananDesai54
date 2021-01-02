@@ -53,4 +53,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MananDesai54&layout=compact&theme=dark&count_private=true)](https://github.com/MananDesai54)
 
 <br />
-```Show me 💖 by giving ⭐ to repo you liked.```
+                                                        ```js
+                                                          Show me 💖 by giving ⭐ to repo you liked. ```
