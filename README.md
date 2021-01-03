@@ -53,4 +53,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MananDesai54&layout=compact&theme=dark&count_private=true)](https://github.com/MananDesai54)
 
 <br />
-                                                        ⭐ from [https://github.com/MananDesai54](Manan Desai)
+                                                        ⭐ from [![Manan](https://github.com/MananDesai54)](Manan Desai)
