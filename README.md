@@ -45,6 +45,8 @@
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" /></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
+<a href="#"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
+<a href="#"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MananDesai54&layout=compact&theme=dark&count_private=true)](https://github.com/MananDesai54)
