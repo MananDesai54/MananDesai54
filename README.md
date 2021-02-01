@@ -37,13 +37,13 @@
 <br/>
 
 # Language and Tools
-<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png" /> </a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" /></a>
-<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png" /> </a>
-<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png" /> </a>
-<a href="#"><img src="https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png" /></a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/react-4-1175110.png" /></a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png" /></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="#"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/></a>
 <a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
 <a href="#"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
 <a href="#"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
