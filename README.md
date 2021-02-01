@@ -44,7 +44,7 @@
 <a href="#"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="#"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/></a>
-<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" /></a>
+<a href="#"> <img src="https://cdn.iconscout.com/icon/free/png-48/angular-3-226070.png" /></a>
 <a href="#"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
 <a href="#"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
 
