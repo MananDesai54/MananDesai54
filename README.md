@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" alt="MananDesai54" /> </p><br/>
 
 # Skills
-```
+```bash
   - JavaScript 
   - TypeScript
   - HTML
@@ -15,10 +15,13 @@
   - React Native 
   - Angular
   - GraphQL 
-  
+  - Next.js
+
   - MongoDB
   - PostgreSQL
+  - Redis
   - AWS S3
+  - SQL
 ```
 <br/>
 
