@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-# Language and Tools
+# Languages and Tools
 <a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
