@@ -1,6 +1,6 @@
 # Hello World, Manan Desai Here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
 
-# Achievement
+# Achievements
 <img src="https://github-readme-stats.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" alt="MananDesai54" /> </p><br/>
 
 # Skills
