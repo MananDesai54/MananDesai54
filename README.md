@@ -52,9 +52,6 @@
 <a href="#"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/></a>
 <a href="#"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
 
-# Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MananDesai54&layout=compact&theme=dark&count_private=true)](https://github.com/MananDesai54)
-
 <br />
 
 ⭐ from [Manan Desai](https://github.com/MananDesai54)
