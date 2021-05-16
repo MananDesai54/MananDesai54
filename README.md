@@ -34,7 +34,7 @@
 <a href=https://www.linkedin.com/in/manan-desai-9ab441186 > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 <a href=https://twitter.com/developtheweb_ > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 <a href=https://medium.com/@MananDe67590352 > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
-<a href=https://instagram.com/_manandesai_ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram.png"></img></a>
+<a href=https://instagram.com/_manandesai_ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 <br/>
 <br/>
 <br/>
