@@ -4,25 +4,57 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" alt="MananDesai54" /> </p><br/>
 
 # Skills
+<details>
+<summary>Languages</summary>
+<br>
+  
 ```bash
   - JavaScript 
   - TypeScript
   - HTML
   - CSS
+```
+</details>
 
+<details>
+<summary>Frameworks and Libraries</summary>
+<br>
+  
+```bash
   - Node.js 
   - React.js 
   - React Native 
   - Angular
   - GraphQL 
   - Next.js
+```
+</details>
 
+<details>
+<summary>Database and Cloud Techs</summary>
+<br>
+  
+```bash
   - MongoDB
   - PostgreSQL
   - Redis
   - AWS S3
   - SQL
 ```
+</details>
+<details>
+<summary>Tools and Technologies</summary>
+<br>
+  
+```bash
+  - Web Development
+  - Mobile App Development
+  - Blockchain
+  - Hyper Ledger Fabric
+  - Linux
+```
+</details>
+
 <br/>
 
 # Profile Visits
