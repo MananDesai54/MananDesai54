@@ -1,4 +1,12 @@
-# Hello World, Manan Desai Here! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
+```bash
+manandesai54 :: github  ➜  ~ » ./hello.sh
+"Hello Guys, I am Manan Desai
+Thanks For Cheking out my profile"
+
+manandesai54 :: github  ➜  ~ » ls sections
+"Achievements"   "Skills"   "Profile Visits"   "Contact Me Here"   "Languages and Tools"
+```
 
 # Achievements
 <img src="https://github-readme-stats.vercel.app/api?username=MananDesai54&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" alt="MananDesai54" /> </p><br/>
@@ -9,10 +17,8 @@
 <br>
   
 ```bash
-  - JavaScript 
-  - TypeScript
-  - HTML
-  - CSS
+manandesai54 :: github  ➜  ~ » ls languages
+"JavaScript"   "TypeScript"   "HTML"   "CSS"
 ```
 </details>
 
@@ -21,12 +27,8 @@
 <br>
   
 ```bash
-  - Node.js 
-  - React.js 
-  - React Native 
-  - Angular
-  - GraphQL 
-  - Next.js
+manandesai54 :: github  ➜  ~ » ls "Frameworks And Libraries"
+"Node.js"   "React.js"   "React Native"   "Angular"  "GraphQL"   "Next.js"
 ```
 </details>
 
@@ -35,11 +37,8 @@
 <br>
   
 ```bash
-  - MongoDB
-  - PostgreSQL
-  - Redis
-  - AWS S3
-  - SQL
+manandesai54 :: github  ➜  ~ » ls "Database and Cloud Techs"
+"MongoDB"   "PostgreSQL"   "MySQL"   "Redis"   "AWS S3"   "SQL"
 ```
 </details>
 <details>
@@ -47,11 +46,8 @@
 <br>
   
 ```bash
-  - Web Development
-  - Mobile App Development
-  - Blockchain
-  - Hyper Ledger Fabric
-  - Linux
+manandesai54 :: github  ➜  ~ » ls "Tools and Technologies"
+"Web Development"   "Mobile App Development"   "Blockchain"   "Hyper Ledger Fabric"   "Linux"
 ```
 </details>
 
