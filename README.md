@@ -1,6 +1,13 @@
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
 ```bash
 manandesai54 :: github  ➜  ~ » ./hello.sh
+___  ___                                 ______                    _ 
+|  \/  |                                 |  _  \                  (_)
+| .  . |  __ _  _ __    __ _  _ __       | | | |  ___  ___   __ _  _ 
+| |\/| | / _` || '_ \  / _` || '_ \      | | | | / _ \/ __| / _` || |
+| |  | || (_| || | | || (_| || | | |     | |/ / |  __/\__ \| (_| || |
+\_|  |_/ \__,_||_| |_| \__,_||_| |_|     |___/   \___||___/ \__,_||_|
+
 "Hello Guys, I am Manan Desai
 Thanks For Cheking out my profile"
 
