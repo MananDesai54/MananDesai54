@@ -90,4 +90,4 @@ manandesai54 :: github  ➜  ~ » ls "Tools and Technologies"
 
 <br />
 
-⭐ from [Manan Desai](https://github.com/MananDesai54)
+⭐ from [Manan Desai](https://MananDesai54.github.io/my-v1)
