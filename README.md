@@ -1,4 +1,4 @@
-# Hello World   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" />
 ```bash
 manandesai54 :: github  ➜  ~ » ./hello.sh
 ___  ___                                 ______                    _ 
