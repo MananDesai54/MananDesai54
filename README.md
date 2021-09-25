@@ -23,3 +23,6 @@
 
 # Profile Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
+
+# My Portfolio Views
+![PortFolio Views](https://manandesai-portfolio.uc.r.appspot.com/views?type=svg)
