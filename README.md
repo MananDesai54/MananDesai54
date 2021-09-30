@@ -21,6 +21,4 @@
 <a href=https://medium.com/@MananDesai54 > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 <a href=https://www.facebook.com/manandesai5401 > <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 
-# Profile Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/MananDesai54/count.svg)
 
