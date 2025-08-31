@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/8c7cf8d8-c97f-489f-bf04-f286421abbc0.svg)](https://wakatime.com/@8c7cf8d8-c97f-489f-bf04-f286421abbc0)
+![](https://komarev.com/ghpvc/?username=manandesai54)
 ```
 [Now] manandesai :: linux  ➜ cowsay "Hello World! I am Manan Desai." 
 
